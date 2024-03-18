@@ -2,8 +2,8 @@ Name,Country,Math,Prog,Eng,Lit,App
 Alice,USA,90,85,55,68,MathApp
 Bob,Canada,85,75,60,72,LiteratureApp
 Charlie,UK,92,88,65,60,MathApp
-Diana, Australia, 88, 82, 58, 68,MathApp
-Eve, Germany, 78, 80, 65, 79,LiteratureApp
-Frank, France, 85, 90, 63, 69, LiteratureApp
-Gina, Japan, 95, 92, 50, 58, MathApp
-Harry, India, 80, 78, 62, 55, LiteratureApp
+Diana,Australia,88,82,58,68,MathApp
+Eve,Germany,78,80,65,79,LiteratureApp
+Frank,France,85,90,63,69,LiteratureApp
+Gina,Japan,95,92,50,58,MathApp
+Harry,India,80,78,62,55,LiteratureApp
